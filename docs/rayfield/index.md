@@ -2,7 +2,7 @@
 title: Fiber Hub Documentation
 sidebar_position: 1
 image: /img/rayfield/rayfield.png
-description: Fiber Hub is a best hub for Roblox.
+description: unk/Arrayfield
 ---
 
 # Introduction
@@ -15,7 +15,7 @@ This website by Sirius.
 
 ## Why do you have to use fiber hub?
 
-:::
+:::info Best feature
 - **Reliable and Stable**
 - **Frequently Updated**
 - **Open Sourced**
