@@ -114,8 +114,8 @@ const config = {
         style: "dark",
         items: [
           {
-            to: "/Fiber Hub",
-            label: "Fiber Hub",
+            to: "/Fiber",
+            label: "Fiber",
             position: "left",
           },
           {
