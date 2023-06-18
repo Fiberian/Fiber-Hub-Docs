@@ -42,7 +42,7 @@ const config = {
         },
         docs: {
           id: "default",
-          path: "docs/fiberhub",
+          path: "docs/rayfield",
           routeBasePath: "/fiberhub",
           sidebarPath: require.resolve("./sidebars.js"),
         },
