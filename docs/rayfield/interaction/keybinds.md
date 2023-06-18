@@ -7,7 +7,7 @@ description: Supported games.
 
 # Supported Game
 
-:::supported game
+:::info Supported game
 - Lumber Tycoon 2
 - Car Driving Indonesia
 - Blox Fruit <br/>
