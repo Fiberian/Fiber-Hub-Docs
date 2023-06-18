@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/vsDark");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Fiber Documentation",
-  tagline: "Documentation for all Fiber related projects",
+  title: "Sirius Documentation",
+  tagline: "Documentation for all Sirius related projects",
   favicon: "https://cdn.sirius.menu/assets/favicons/favicon.ico",
 
   // Set the production url of your site here
@@ -114,8 +114,8 @@ const config = {
         style: "dark",
         items: [
           {
-            to: "/Fiber",
-            label: "Fiber",
+            to: "/rayfield",
+            label: "Rayfield",
             position: "left",
           },
           {
