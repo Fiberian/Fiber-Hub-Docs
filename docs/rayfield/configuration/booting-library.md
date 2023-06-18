@@ -1,39 +1,21 @@
 ---
-title: Booting the Library
+title: Source Information
 sidebar_position: 2
-image: /img/rayfield/rayfield.png
-description: How to boot the Rayfield Library
+image: https://cdn.discordapp.com/attachments/1117745373939781672/1119948433999007824/Proyek_Baru_1_EA40A12.png
+description: Unk
 ---
 
-## Loading the Rayfield Library
+## Information
 
-```lua
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
-```
-
-### Secure Mode
-
-:::caution Warning
-If the game you're trying to run Rayfield Interface Suite on, is detecting or crashing when you use Rayfield Interface Suite, try using Secure Mode:
-
-- Place `getgenv().SecureMode = true` above the initial Rayfield loadstring
-
-:::
-Rayfield will now use Secure Mode and attempt to reduce detection
-:::note
-
-This may cause some elements of the UI to look lower quality or may increase loading times slightly
-
+:::info Source Information
+- Our source is not fully coded by us, we copy a little source from the Butter Hub and Luaware (Big Thanks).
 :::
 
-### Enabling Configuration Saving
-
-:::tip
-
-1. Enable ConfigurationSaving in the CreateWindow function
-2. Choose an appropiate FileName in the CreateWindow function
-3. Choose an unique flag identifier for each supported element you create
-4. Place `Rayfield:LoadConfiguration()` at the bottom of all your code
-
+:::info Credits
+- Gabriel
+- Skidzo
+- Applebox
+- 50calspecialist
+- Silentben8x
+- ArrayField
 :::
-Rayfield will now automatically save and load your configuration
