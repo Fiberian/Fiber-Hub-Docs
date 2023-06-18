@@ -119,8 +119,8 @@ const config = {
             position: "left",
           },
           {
-            to: "/sense",
-            label: "Sense",
+            to: "/a",
+            label: "LuaWare",
             position: "left",
           },
           {
