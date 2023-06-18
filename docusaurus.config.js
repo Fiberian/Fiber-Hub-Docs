@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/vsDark");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Fiber Hub",
-  tagline: "Fiber Hub Project",
+  title: "Fiber Documentation",
+  tagline: "Documentation for all Fiber related projects",
   favicon: "https://cdn.sirius.menu/assets/favicons/favicon.ico",
 
   // Set the production url of your site here
@@ -104,23 +104,23 @@ const config = {
         { property: "og:type", content: "article" },
         { property: "og:url", content: "https://docs.sirius.menu" },
         { property: "og:locale", content: "en" },
-        { property: "og:site_name", content: "Fiber Documentation" },
+        { property: "og:site_name", content: "Sirius Documentation" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
       // Replace with your project's social card
-      image: "img/Proyek_Baru_1_EA40A12.png",
+      image: "img/Docs.png",
       navbar: {
         title: "Documentation",
         style: "dark",
         items: [
           {
-            to: "/rayfield",
+            to: "/Fiber Hub",
             label: "Fiber Hub",
             position: "left",
           },
           {
-            to: "/a",
-            label: "LuaWare",
+            to: "/sense",
+            label: "Sense",
             position: "left",
           },
           {
