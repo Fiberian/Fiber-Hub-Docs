@@ -108,14 +108,14 @@ const config = {
         { name: "twitter:card", content: "summary_large_image" },
       ],
       // Replace with your project's social card
-      image: "img/Docs.png",
+      image: "img/Proyek_Baru_1_EA40A12.png",
       navbar: {
         title: "Documentation",
         style: "dark",
         items: [
           {
             to: "/rayfield",
-            label: "Fiberhub",
+            label: "Fiber Hub",
             position: "left",
           },
           {
