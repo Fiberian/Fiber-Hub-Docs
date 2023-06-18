@@ -7,7 +7,7 @@ description: Rayfield is a powerful and easy to use interface suite for Roblox.
 
 # Introduction
 
-[![image](/img/rayfield/rayfield.png)](https://discord.sirius.menu)
+[![image](https://cdn.discordapp.com/attachments/1117745373939781672/1119948433999007824/Proyek_Baru_1_EA40A12.png)](https://discord.io/FiberHubx)
 
 This is the written documentation for Rayfield Interface Suite.
 
