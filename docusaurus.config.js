@@ -7,11 +7,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/vsDark");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Fiber Hub",
-  tagline: "Documentation for all Fiber Hub related projects",
+  tagline: "Fiber Hub Project",
   favicon: "https://cdn.sirius.menu/assets/favicons/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://docs.fiberhub.menu",
+  url: "https://docs.sirius.menu",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -43,7 +43,7 @@ const config = {
         docs: {
           id: "default",
           path: "docs/rayfield",
-          routeBasePath: "/fiberhub",
+          routeBasePath: "/rayfield",
           sidebarPath: require.resolve("./sidebars.js"),
         },
       },
@@ -104,7 +104,7 @@ const config = {
         { property: "og:type", content: "article" },
         { property: "og:url", content: "https://docs.sirius.menu" },
         { property: "og:locale", content: "en" },
-        { property: "og:site_name", content: "Sirius Documentation" },
+        { property: "og:site_name", content: "Fiber Documentation" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
       // Replace with your project's social card
@@ -114,13 +114,13 @@ const config = {
         style: "dark",
         items: [
           {
-            to: "/fiberhub",
-            label: "FiberHub",
+            to: "/rayfield",
+            label: "Fiberhub",
             position: "left",
           },
           {
-            to: "/s",
-            label: "s",
+            to: "/sense",
+            label: "Sense",
             position: "left",
           },
           {
@@ -136,7 +136,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        indexName: "FiberHub",
+        indexName: "rayfield",
         appId: "Y1DPKMTCPW",
         apiKey: "7b017cc6ab9d1a413284733c14c2c42b",
         contextualSearch: false,
