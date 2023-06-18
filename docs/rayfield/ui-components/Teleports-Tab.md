@@ -5,7 +5,7 @@ image: /img/rayfield/rayfield.png
 description: How to create textual elements
 ---
 
-# Player Tab
+# Teleports Tab
 
 :::note Locations 
 - Teleport To Waypoint
