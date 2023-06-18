@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/vsDark");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Sirius Documentation",
-  tagline: "Documentation for all Sirius related projects",
+  title: "Fiber Hub",
+  tagline: "Documentation for all Fiber Hub related projects",
   favicon: "https://cdn.sirius.menu/assets/favicons/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://docs.sirius.menu",
+  url: "https://docs.fiberhub.menu",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -42,8 +42,8 @@ const config = {
         },
         docs: {
           id: "default",
-          path: "docs/rayfield",
-          routeBasePath: "/rayfield",
+          path: "docs/fiberhub",
+          routeBasePath: "/fiberhub",
           sidebarPath: require.resolve("./sidebars.js"),
         },
       },
@@ -114,13 +114,13 @@ const config = {
         style: "dark",
         items: [
           {
-            to: "/rayfield",
-            label: "Rayfield",
+            to: "/fiberhub",
+            label: "FiberHub",
             position: "left",
           },
           {
-            to: "/sense",
-            label: "Sense",
+            to: "/s",
+            label: "s",
             position: "left",
           },
           {
@@ -136,7 +136,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        indexName: "rayfield",
+        indexName: "FiberHub",
         appId: "Y1DPKMTCPW",
         apiKey: "7b017cc6ab9d1a413284733c14c2c42b",
         contextualSearch: false,
